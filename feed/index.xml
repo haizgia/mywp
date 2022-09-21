@@ -8,10 +8,10 @@
 	>
 
 <channel>
-	<title>My Blog</title>
+	<title></title>
 	<atom:link href="https://haizgia.github.io/mywp/feed/" rel="self" type="application/rss+xml" />
 	<link>https://haizgia.github.io/mywp/</link>
-	<description>Một trang web mới sử dụng WordPress</description>
+	<description></description>
 	<lastBuildDate>Wed, 07 Sep 2022 17:29:49 +0000</lastBuildDate>
 	<language>vi</language>
 	<sy:updatePeriod>
@@ -29,7 +29,7 @@
 				<category><![CDATA[Animal]]></category>
 		<guid isPermaLink="false">https://haizgia.com/haizgia.com/?p=70</guid>
 
-					<description><![CDATA[HelloLorem ipsum dolor sit amet consectetur adipiscing elit dolorClick HereSlide 2 HeadingLorem ipsum dolor sit amet consectetur adipiscing elit dolorClick HereSlide 3 HeadingLorem ipsum dolor sit amet consectetur adipiscing elit dolorClick Here Previous Next Services we Provide we fulfill all your needs &#160; Adopt a Pet Simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry’s standard dummy text ever since the 1500s, when an unknown printer &#160; Looking for Pet Sitter? Simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry’s standard dummy text ever since the 1500s, when an unknown printer &#160; Become a Pet Sitter Simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry’s standard dummy text ever since the 1500s, when an unknown printer &#160; Find a Mate for your Pet Simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry’s standard dummy text ever since the 1500s, when an unknown printer Want a pet for your loved ones? Try our Adoption Services Get a Pet Now Pets for Adoption you are in the right place All Cat Dog Birds Hamster Age: 2 Yrs Stewart Little Breed: Persian &#124; City: Australia Age: 2 Yrs Lyly Breed: Persian &#124; City: Australia Age: 2 Yrs Stewart Little Breed: Persian &#124; City: Australia Age: 2 Yrs Stewart Little Breed: Persian &#124; City: Australia Age: 2 Yrs Stewart Little Breed: Persian &#124; City: Australia Age: 2 Yrs Lyly Breed: Persian &#124; City: Australia Age: 2 Yrs Stewart Little Breed: Persian &#124; City: Australia Age: 2 Yrs Stewart Little Breed: Persian &#124; City: Australia Free training to handle pets let&#8217;s get a pet Taking care of birds 22 march 2022 Vintage Gardens, CA Lorem ipsum dolor sit amet, consectetur adipiscing elit Fusce a sem hendrerit, lobortis libero sed, tincidunt tortor Etiam congue elit nec luctus pulvinar Proin non velit tempor, laoreet metus at, varius urna Aliquam auctor leo at libero semper interdum Register Now Feeding a Cat to be healthy 22 march 2022 Vintage Gardens, CA Lorem ipsum dolor sit amet, consectetur adipiscing elit Fusce a sem hendrerit, lobortis libero sed, tincidunt tortor Etiam congue elit nec luctus pulvinar Proin non velit tempor, laoreet metus at, varius urna Aliquam auctor leo at libero semper interdum Register Now A life for the abonded pets is our mission Quisque mauris nec ante bibendum, at pretium diam vehicula. Morbi non metus eu libero interdum tristique ut vel leo In id metus condimentum, rutrum leo sed, laoreet sem Aliquam molestie nisi quis sodales malesuada Pellentesque eu tellus placerat, euismod nisi eu, viverra ante Know More 0 + Animals Rescued 0 + Veterinary Doctors 0 Animals Caretakers Popular Pet Sitters/Trainers for Hire we are expertise in following areas This is the heading BOARDING &#124; EXP 1+ YRS Hire Me This is the heading BOARDING &#124; EXP 1+ YRS Hire Me This is the heading BOARDING &#124; EXP 1+ YRS Hire Me This is the heading BOARDING &#124; EXP 1+ YRS Hire Me This is the heading BOARDING &#124; EXP 1+ YRS Hire Me This is the heading BOARDING &#124; EXP 1+ YRS Hire Me Apply &#038; become a Pet Sitter Blog &#38; Our News get all the latest happenings around us Report a stray cat Call us 000 xxx xxxx Report a stray cat _______ Call us jjjjjjjj Report a stray cat Call us 000 xxx xxxx Report a stray cat _______ Call us jjjjjjjj Report a stray cat Call us 000 xxx xxxx Report a stray cat _______ Call us jjjjjjjj Đây là heading Simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry&#8217;s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. Helpfull links Pet Dictionary Help links Pet Attitudes Call a Doctor Help a Pet Overview Adopt a Pet Create Awareness Join Campaign Subscribe * We do not spam Copyright © 2016 Pet Shop. All rights reserved  Terms Privacy]]></description>
+					<description><![CDATA[HelloLorem ipsum dolor sit amet consectetur adipiscing elit dolorClick HereSlide 2 HeadingLorem ipsum dolor sit amet consectetur adipiscing elit dolorClick HereSlide 3 HeadingLorem ipsum dolor sit amet consectetur adipiscing elit dolorClick Here Previous Next Services we Provide we fulfill all your needs &#160; Adopt a Pet Simply dummy text of the printing and typesetting industry. [&#8230;]]]></description>
 										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="70" class="elementor elementor-70">
 									<section class="elementor-section elementor-top-section elementor-element elementor-element-9b96055 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="9b96055" data-element_type="section">
 						<div class="elementor-container elementor-column-gap-default">
@@ -47,32 +47,7 @@
 						<div class="elementor-container elementor-column-gap-no">
 					<div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-72ad4747" data-id="72ad4747" data-element_type="column">
 			<div class="elementor-widget-wrap elementor-element-populated">
-								<div class="elementor-element elementor-element-7fbd65e2 elementor-nav-menu__align-right elementor-nav-menu--dropdown-tablet elementor-nav-menu__text-align-aside elementor-nav-menu--toggle elementor-nav-menu--burger elementor-widget elementor-widget-nav-menu" data-id="7fbd65e2" data-element_type="widget" data-settings="{&quot;layout&quot;:&quot;horizontal&quot;,&quot;submenu_icon&quot;:{&quot;value&quot;:&quot;&lt;i class=\&quot;fas fa-caret-down\&quot;&gt;&lt;\/i&gt;&quot;,&quot;library&quot;:&quot;fa-solid&quot;},&quot;toggle&quot;:&quot;burger&quot;}" data-widget_type="nav-menu.default">
-				<div class="elementor-widget-container">
-			<link rel="stylesheet" href="https://haizgia.github.io/mywp/wp-content/plugins/elementor-pro/assets/css/widget-nav-menu.min.css">			<nav migration_allowed="1" migrated="0" role="navigation" class="elementor-nav-menu--main elementor-nav-menu__container elementor-nav-menu--layout-horizontal e--pointer-underline e--animation-fade">
-				<ul id="menu-1-7fbd65e2" class="elementor-nav-menu"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-38"><a href="https://haizgia.github.io/mywp/home-page/" class="elementor-item">HOME</a>
-<ul class="sub-menu elementor-nav-menu--dropdown">
-	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-422"><a href="https://haizgia.github.io/mywp/oke/" class="elementor-sub-item">oke</a></li>
-</ul>
-</li>
-<li class="menu-item menu-item-type-post_type menu-item-object-page current_page_parent menu-item-78"><a href="https://haizgia.github.io/mywp/blog/" class="elementor-item">BLOG</a></li>
-<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-217"><a href="https://haizgia.github.io/mywp/" class="elementor-item">Demo elementor</a></li>
-</ul>			</nav>
-					<div class="elementor-menu-toggle" role="button" tabindex="0" aria-label="Menu Toggle" aria-expanded="false">
-			<i aria-hidden="true" role="presentation" class="elementor-menu-toggle__icon--open eicon-menu-bar"></i><i aria-hidden="true" role="presentation" class="elementor-menu-toggle__icon--close eicon-close"></i>			<span class="elementor-screen-only">Menu</span>
-		</div>
-			<nav class="elementor-nav-menu--dropdown elementor-nav-menu__container" role="navigation" aria-hidden="true">
-				<ul id="menu-2-7fbd65e2" class="elementor-nav-menu"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-38"><a href="https://haizgia.github.io/mywp/home-page/" class="elementor-item" tabindex="-1">HOME</a>
-<ul class="sub-menu elementor-nav-menu--dropdown">
-	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-422"><a href="https://haizgia.github.io/mywp/oke/" class="elementor-sub-item" tabindex="-1">oke</a></li>
-</ul>
-</li>
-<li class="menu-item menu-item-type-post_type menu-item-object-page current_page_parent menu-item-78"><a href="https://haizgia.github.io/mywp/blog/" class="elementor-item" tabindex="-1">BLOG</a></li>
-<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-217"><a href="https://haizgia.github.io/mywp/" class="elementor-item" tabindex="-1">Demo elementor</a></li>
-</ul>			</nav>
-				</div>
-				</div>
-					</div>
+									</div>
 		</div>
 				<div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-614e82b" data-id="614e82b" data-element_type="column">
 			<div class="elementor-widget-wrap elementor-element-populated">
@@ -85,32 +60,7 @@
 		</div>
 				<div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-5fbc7a37" data-id="5fbc7a37" data-element_type="column">
 			<div class="elementor-widget-wrap elementor-element-populated">
-								<div class="elementor-element elementor-element-15975cd7 elementor-nav-menu--dropdown-tablet elementor-nav-menu__text-align-aside elementor-nav-menu--toggle elementor-nav-menu--burger elementor-widget elementor-widget-nav-menu" data-id="15975cd7" data-element_type="widget" data-settings="{&quot;layout&quot;:&quot;horizontal&quot;,&quot;submenu_icon&quot;:{&quot;value&quot;:&quot;&lt;i class=\&quot;fas fa-caret-down\&quot;&gt;&lt;\/i&gt;&quot;,&quot;library&quot;:&quot;fa-solid&quot;},&quot;toggle&quot;:&quot;burger&quot;}" data-widget_type="nav-menu.default">
-				<div class="elementor-widget-container">
-						<nav migration_allowed="1" migrated="0" role="navigation" class="elementor-nav-menu--main elementor-nav-menu__container elementor-nav-menu--layout-horizontal e--pointer-underline e--animation-fade">
-				<ul id="menu-1-15975cd7" class="elementor-nav-menu"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-38"><a href="https://haizgia.github.io/mywp/home-page/" class="elementor-item">HOME</a>
-<ul class="sub-menu elementor-nav-menu--dropdown">
-	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-422"><a href="https://haizgia.github.io/mywp/oke/" class="elementor-sub-item">oke</a></li>
-</ul>
-</li>
-<li class="menu-item menu-item-type-post_type menu-item-object-page current_page_parent menu-item-78"><a href="https://haizgia.github.io/mywp/blog/" class="elementor-item">BLOG</a></li>
-<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-217"><a href="https://haizgia.github.io/mywp/" class="elementor-item">Demo elementor</a></li>
-</ul>			</nav>
-					<div class="elementor-menu-toggle" role="button" tabindex="0" aria-label="Menu Toggle" aria-expanded="false">
-			<i aria-hidden="true" role="presentation" class="elementor-menu-toggle__icon--open eicon-menu-bar"></i><i aria-hidden="true" role="presentation" class="elementor-menu-toggle__icon--close eicon-close"></i>			<span class="elementor-screen-only">Menu</span>
-		</div>
-			<nav class="elementor-nav-menu--dropdown elementor-nav-menu__container" role="navigation" aria-hidden="true">
-				<ul id="menu-2-15975cd7" class="elementor-nav-menu"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-38"><a href="https://haizgia.github.io/mywp/home-page/" class="elementor-item" tabindex="-1">HOME</a>
-<ul class="sub-menu elementor-nav-menu--dropdown">
-	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-422"><a href="https://haizgia.github.io/mywp/oke/" class="elementor-sub-item" tabindex="-1">oke</a></li>
-</ul>
-</li>
-<li class="menu-item menu-item-type-post_type menu-item-object-page current_page_parent menu-item-78"><a href="https://haizgia.github.io/mywp/blog/" class="elementor-item" tabindex="-1">BLOG</a></li>
-<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-217"><a href="https://haizgia.github.io/mywp/" class="elementor-item" tabindex="-1">Demo elementor</a></li>
-</ul>			</nav>
-				</div>
-				</div>
-					</div>
+									</div>
 		</div>
 							</div>
 		</section>
@@ -1712,7 +1662,7 @@ jjjjjjjj						</div>
 		<category><![CDATA[#cat #cute]]></category>
 		<guid isPermaLink="false">https://haizgia.com/haizgia.com/?p=22</guid>
 
-					<description><![CDATA[Top 4 Loài Mèo Dễ Thương Nhất Thế Giới 2022 Nói đến độ dễ thương của các loài động vật thì chắc hẳn là không thể nào thiếu các “hoàng thượng” siêu cute. Những chú mèo đáng yêu luôn dễ dàng đánh gục những người yêu thú cưng. Không chỉ sở hữu vẻ ngoài xinh đẹp với bộ lông mềm mại, đôi mắt tròn xoe, những chú mèo còn sở hữu tính cách tinh nghịch, thông minh. Mặc dù với người nuôi mèo thì con nào cũng dễ thương như nhau, thế nhưng thực tế vẫn có sự phân hóa tương đối rõ rệt. Trong bài viết này, haizgia.com sẽ giới thiệu tới quý đọc giả những giống mèo được cho là cute nhất thế giới. 1. Mèo Anh lông dài Mèo British Longhair hay&#160;mèo Anh&#160;lông dài&#160;được gọi âu yếm là &#8220;những chú gấu bông mặt tròn&#8221;. Chúng có tính cách vô cùng ngọt ngào, dễ thương. Những chú mèo có bộ lông xinh đẹp&#160;này có nguồn gốc từ Anh và là sự lai tạo giữa giống mèo Anh lông ngắn và mèo Ba Tư. Những chú mèo Anh lông dài sống rất tình cảm, sống trung thành. Nếu bạn mong muốn có thêm một chú mèo trong gia đình để có thể đem đến sự vui vẻ thì mèo Anh lông ngắn thực sự dành cho bạn. 2. Mèo Munchkin Giống mèo Munchkin là giống mèo vô cùng dễ thương bởi vẻ ngoài khá thấp với đôi chân cực ngắn và phàn lưng dài. Đó là lý do tại sao mỗi khi di chuyển, mèo Munchkin lại được nhận xét giống với loài chồn sương. Mèo Munchkin rất vui vẻ, ngọt ngào và rất dễ thương. Chúng có thể sở hữu nhiều màu lông khác nhau, bao gồm những kiểu lông dài, lông ngắn khác nhau. Chúng cũng có tính cách khá vui tươi khiến chúng trở thành những người bạn đồng hành tuyệt vời cùng chủ nhân của mình. Mèo Munchkin khó có khả năng tự chải chuốt linh hoạt như những con mèo khác nên chúng rất cần sự trợ giúp từ chủ nhân của mình! 3. Mèo Ragdoll Mèo Ragdoll còn có tên gọi khác là Ragamuffin, là loài mèo cỡ lớn với thân hình cơ bắp và mạnh mẽ, chúng có trọng lượng đạt 9 kg, có chiếc đầu lớn khá tròn, khuôn mặt đầy, mũi và mõm dài và lớn, đôi mắt to hình bầu dục có màu xanh biển, hai chiếc tai hình tam giác cỡ vừa dựng đứng hai bên đầu, chiếc đuôi dài rậm lông. Chúng còn có một bộ lông khá dài và dày rậm, lông mềm mại với nhiều màu sắc như màu trắng, kem, xanh, xám, socola&#8230; Mèo Ragdoll có tính tình nhẹ nhàng và điềm tĩnh, rất dễ chịu, tình cảm và hòa đồng, chúng có bản tính gần như giống với loài chó bởi sự trung thành và tận tụy với chủ của mình. Ragdoll vô cùng ngoan ngoãn, chúng thậm chí còn chào đón chủ nhân của chúng về nhà mỗi ngày. Bộ lông dài vừa phải của Ragdoll vô cùng xinh đẹp, mặc dù khó có khả năng bị rụng nhưng bạn vẫn nên chải chuốt cho chúng thường xuyên nhé! 4. Mèo Xiêm Đúng như tên gọi của nó, nguồn gốc của chú mèo này đến từ Xiêm La &#8211; Thái Lan và được công nhận như là một trong những loài mèo lông ngắn phương Đông đầu tiên trên thế giới. Với dáng người dài và thanh mảnh, mèo Xiêm nhận được rất nhiều sự yêu mến trong&#160;các loại mèo thú cưng&#160;lúc bấy giờ và cho cả đến hiện tại. Nổi bật nhất của giống mèo này chính là cặp mắt cực kỳ đẹp với màu xanh đặc trưng như muốn hớp hồn người nuôi. Do đó mà hầu hết mọi người đều phải xiêu lòng trước chú mèo này. Ngoài ra, mèo Xiêm còn sở hữu một đôi tai rất to cùng thân hình gọn gàng, vì vậy mà mèo Xiêm còn được xem là khắc tinh của các loài chuột. ⇒ Vậy là haizgia.com đã giới thiệu đến các bạn top các loại mèo cực dễ thương nhất hiện nay, nếu bạn là một người yêu thích mèo thì blog của mình sẽ không để bạn thất vọng đâu, hãy follow mình nhé Edit by Haizgia]]></description>
+					<description><![CDATA[Top 4 Loài Mèo Dễ Thương Nhất Thế Giới 2022 Nói đến độ dễ thương của các loài động vật thì chắc hẳn là không thể nào thiếu các “hoàng thượng” siêu cute. Những chú mèo đáng yêu luôn dễ dàng đánh gục những người yêu thú cưng. Không chỉ sở hữu vẻ ngoài xinh [&#8230;]]]></description>
 										<content:encoded><![CDATA[<p><img class="aligncenter" src="https://vcdn1-giadinh.vnecdn.net/2017/12/20/meo-3-1513734492.jpg?w=1200&amp;h=0&amp;q=100&amp;dpr=1&amp;fit=crop&amp;s=icCfg9EfINa3Q16NmND7gg" alt=""></p>
 <blockquote>
 <h2><strong><span style="color: #808080;">Top 4 Loài Mèo Dễ Thương Nhất Thế Giới 2022</span></strong></h2>

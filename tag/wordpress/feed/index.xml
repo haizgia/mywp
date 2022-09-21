@@ -8,10 +8,10 @@
 	>
 
 <channel>
-	<title>#wordpress &#8211; My Blog</title>
+	<title>#wordpress</title>
 	<atom:link href="https://haizgia.github.io/mywp/tag/wordpress/feed/" rel="self" type="application/rss+xml" />
 	<link>https://haizgia.github.io/mywp/</link>
-	<description>Một trang web mới sử dụng WordPress</description>
+	<description></description>
 	<lastBuildDate>Wed, 24 Aug 2022 01:57:36 +0000</lastBuildDate>
 	<language>vi</language>
 	<sy:updatePeriod>
